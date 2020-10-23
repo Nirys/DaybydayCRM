@@ -15,4 +15,6 @@ bower_components
 .php_cs.cache
 storage/debugbar/
 public/build/
+public/css/app.css
+public/js/app.js
 storage/
