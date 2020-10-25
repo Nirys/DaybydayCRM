@@ -3674,12 +3674,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Nirys/daybydaye-contacts.git",
-                "reference": "6da4062a7689502fb712f3d9939c53252a7eb42d"
+                "reference": "6987ea8df1045ad6c66d924bb2118a1584e7cb2d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Nirys/daybydaye-contacts/zipball/6da4062a7689502fb712f3d9939c53252a7eb42d",
-                "reference": "6da4062a7689502fb712f3d9939c53252a7eb42d",
+                "url": "https://api.github.com/repos/Nirys/daybydaye-contacts/zipball/6987ea8df1045ad6c66d924bb2118a1584e7cb2d",
+                "reference": "6987ea8df1045ad6c66d924bb2118a1584e7cb2d",
                 "shasum": ""
             },
             "type": "library",
@@ -3705,7 +3705,11 @@
                 }
             ],
             "description": "Provide contacts for DayByDay CRM clients",
-            "time": "2020-10-19T19:45:41+00:00"
+            "support": {
+                "source": "https://github.com/Nirys/daybydaye-contacts/tree/master",
+                "issues": "https://github.com/Nirys/daybydaye-contacts/issues"
+            },
+            "time": "2020-10-25T09:36:37+00:00"
         },
         {
             "name": "spirit-systems/daybyday-core",
