@@ -89,13 +89,11 @@
     },
     "repositories": [{
 	"type": "vcs",
-	"url": "../daybyday-modules/contacts",
-	"symlink": true
+	"url": "git@github.com:Nirys/daybydaye-contacts.git"
     },
     {
 	    "type": "vcs",
-	    "url": "../daybyday-modules/core",
-	    "symlink": true
+	    "url": "git@github.com:Nirys/daybyday-core.git"
     }],
     "minimum-stability": "dev",
     "prefer-stable": true

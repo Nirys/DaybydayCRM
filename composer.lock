@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "376e8638ed613b63328a5af2382150b6",
+    "content-hash": "3b81839bb5d96ccbc3c0fab8e8bc1ca3",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -3673,8 +3673,14 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "/home/kyoung/projects/daybyday-modules/contacts",
+                "url": "https://github.com/Nirys/daybydaye-contacts.git",
                 "reference": "6da4062a7689502fb712f3d9939c53252a7eb42d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Nirys/daybydaye-contacts/zipball/6da4062a7689502fb712f3d9939c53252a7eb42d",
+                "reference": "6da4062a7689502fb712f3d9939c53252a7eb42d",
+                "shasum": ""
             },
             "type": "library",
             "extra": {
@@ -3706,8 +3712,14 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "/home/kyoung/projects/daybyday-modules/core",
-                "reference": "562b7c48f57b37f6f329fda325f2ac5e80007e96"
+                "url": "https://github.com/Nirys/daybyday-core.git",
+                "reference": "d5621a8f9871f1634d0719274c21fcbca07522ad"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Nirys/daybyday-core/zipball/d5621a8f9871f1634d0719274c21fcbca07522ad",
+                "reference": "d5621a8f9871f1634d0719274c21fcbca07522ad",
+                "shasum": ""
             },
             "type": "library",
             "extra": {
@@ -3732,7 +3744,11 @@
                 }
             ],
             "description": "Allow for menu overrides/other core overrides",
-            "time": "2020-10-19T19:50:10+00:00"
+            "support": {
+                "source": "https://github.com/Nirys/daybyday-core/tree/master",
+                "issues": "https://github.com/Nirys/daybyday-core/issues"
+            },
+            "time": "2020-10-25T08:46:19+00:00"
         },
         {
             "name": "stripe/stripe-php",
