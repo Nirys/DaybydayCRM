@@ -89,12 +89,12 @@
     },
     "repositories": [{
 	"type": "vcs",
-	"url": "/home/kyoung/projects/daybyday-modules/contacts",
+	"url": "../daybyday-modules/contacts",
 	"symlink": true
     },
     {
 	    "type": "vcs",
-	    "url": "/home/kyoung/projects/daybyday-modules/core",
+	    "url": "../daybyday-modules/core",
 	    "symlink": true
     }],
     "minimum-stability": "dev",
